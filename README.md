@@ -24,12 +24,17 @@ My goal is to leverage **SQL, Python, and Generative AI** to solve real-world bu
 * **Tech:** LangChain, Ollama, FAISS, Streamlit 
 * **Impact:** Enables "Chat-with-PDF" capabilities without API costs, reducing information retrieval time by 90%
 
-#### 📉 [Global Layoff Trends Analysis](https://github.com/Ajxlegion/Global-Layoffs-Analysis)
+#### 🏗️ [End-to-End Data Warehouse Solution](https://github.com/Ajxlegion/SQL-DataWarehouse-Project)
+*A modern data engineering solution implementing the Medallion Architecture (Bronze/Silver/Gold).*
+* **Tech:** SQL Server, SSMS, ETL Pipelines, Star Schema, Power BI
+* **Impact:** Reduced data redundancy by **43%** and optimized analytical query performance by **35%** through indexed dimensional modeling.  
+
+#### 📉 [Global Layoff Trends Analysis](https://github.com/Ajxlegion/Layoff_Analysis_Project)
 *An in-depth SQL analysis of workforce trends across industries.*
 * **Tech:** Advanced SQL (CTEs, Window Functions), Python 
 * **Impact:** Analyzed layoffs across funding stages to reveal sectors most impacted by economic shifts.
 
-#### 🚖 [Ola Ride Analytics Dashboard](https://github.com/Ajxlegion/Ola-Ride-Analytics)
+#### 🚖 [Ola Ride Analytics Dashboard](https://github.com/Ajxlegion/OLA_Analytics-Dashboard)
 *Business intelligence dashboard tracking 100,000+ ride bookings.*
 * **Tech:** Power BI, DAX, SQL Views 
 * **Impact:** Identified operational inefficiencies and driver cancellation patterns to improve revenue retention.
