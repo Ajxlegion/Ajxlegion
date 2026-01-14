@@ -13,7 +13,7 @@ My goal is to leverage **SQL, Python, and Generative AI** to solve real-world bu
 * **Languages:** Python (Pandas, NumPy), SQL, C++ 
 * **Data Visualization:** Power BI, Tableau, Advanced Excel 
 * **Generative AI:** LangChain, Streamlit, Ollama, HuggingFace, RAG Pipelines 
-* **Databases & Tools:** MySQL, PostgreSQL, Jira, Git/GitHub 
+* **Databases & Tools:** MySQL, SQLExpress, Jira, Git/GitHub 
 
 ---
 
@@ -33,12 +33,6 @@ My goal is to leverage **SQL, Python, and Generative AI** to solve real-world bu
 *Business intelligence dashboard tracking 100,000+ ride bookings.*
 * **Tech:** Power BI, DAX, SQL Views 
 * **Impact:** Identified operational inefficiencies and driver cancellation patterns to improve revenue retention.
-
----
-
-### ⚡ Stats
-![Apoorv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajxlegion&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajxlegion&layout=compact&theme=radical)
 
 ---
 
